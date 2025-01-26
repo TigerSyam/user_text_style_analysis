@@ -1,4 +1,4 @@
-
+import google 
 import streamlit as st
 st.title("**Text Style Analyzer** 🔍")
 st.markdown("**Welcome!** This app analyzes the writing style of your text.")
